@@ -6,7 +6,7 @@ Algumas anotações feitas na aula: [aulaAnotacoes](./aulaAnotacoes.md "aulaAnot
 
 ## Fundamentos da Programação de Computadores - parte 1
 
-### [Videoaula_1_1 (14:06)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcYN8E_Ky9NHvHmjXVFermMBrA1b-rN4IzI7tyPdHxDWhg?e=d1FHSY> "primeira videoaula da unidade 1")  
+### [Videoaula_1_1 (14:06)](<https://furb.sharepoint.com/:v:/t/msteams_d5eac5-TCCsDSC/IQBGUmWyrX_ER46DTvHwUkopAY9NIyvOIV514oCUaQ8NT_g?e=mNIywO> "primeira videoaula da unidade 1")  
 
 - Os computadores são máquinas programáveis utilizadas para automatizar tarefas​.  
 - As ações executadas por estas máquinas são baseadas em dados e regras que dependem da aplicação para as quais são criadas​.  
@@ -42,7 +42,7 @@ Algumas anotações feitas na aula: [aulaAnotacoes](./aulaAnotacoes.md "aulaAnot
 
 ## Fundamentos da Programação de Computadores - parte 2
 
-### [Videoaula_1_2 (18:57)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EaD5MAtYXMNKpRkteuPRf-wBkMvx-lQHW47yMFFISOWybw?e=2IM9Ko> "link alternativo da segunda videoaula da unidade 1")  
+### [Videoaula_1_2 (18:57)](<https://furb.sharepoint.com/:v:/t/msteams_d5eac5-TCCsDSC/IQDJqduDQf_sR6DaLUybbDVkAcSfrFZy0T_qGR9RV7KrQ-A?e=u65cUz> "link alternativo da segunda videoaula da unidade 1")  
 
 ### Ciclo de Vida de um Software​
 
