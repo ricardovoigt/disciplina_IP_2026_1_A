@@ -17,7 +17,7 @@ Para resolver este problema pode se utilizar do algoritmo descrito no fluxograma
 | Exemplo de entrada | Exemplo de saída |
 | -------- | -------- |
 | Horas trabalhadas no mês: 180
-  Valor pago por hora: 35 | O salário total é: 6650,00 |
+  Valor pago por hora: 35 | O salário total é: 6640,00 |
 
 ----------
 
