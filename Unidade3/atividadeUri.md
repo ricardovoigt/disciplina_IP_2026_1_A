@@ -5,10 +5,10 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
-[https://bcwd.me/d-15007](<https://bcwd.me/d-15007> "https://bcwd.me/d-15007")  ou acesse beecrowd.com
+[https://bcwd.me/d-15007](<https://bcwd.me/d-15622> "https://bcwd.me/d-15622")  ou acesse beecrowd.com
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2025_2_A**.  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_C_2026_1_BCC**.  
 
 <!-- [ ] INICIO atualizar - Token da Disciplina -->
 Assim que acessar a disciplina informe a seguinte chave de acesso (token): 3hbnQJv  
